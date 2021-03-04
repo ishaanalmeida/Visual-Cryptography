@@ -1,5 +1,5 @@
 # Visual-Cryptography
-Using Python and OpenCV to implement two cryptography algorithms: one which uses AES encryption & decryption and another which uses bit-level encryption to generate two shares which when superposed, the secret image is revealed.
+## Using Python and OpenCV to implement two cryptography algorithms: one which uses AES encryption & decryption and another which uses bit-level encryption to generate two shares which when superposed, the secret image is revealed.
 <br/>
 
 Here are sample results:  
